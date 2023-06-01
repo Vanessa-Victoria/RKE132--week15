@@ -1,0 +1,15 @@
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.csproj.AssemblyReference.cache
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.AssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net6.0\Week15-OOPAndFiles.exe
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net6.0\Week15-OOPAndFiles.deps.json
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net6.0\Week15-OOPAndFiles.runtimeconfig.json
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net6.0\Week15-OOPAndFiles.dll
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\bin\Debug\net6.0\Week15-OOPAndFiles.pdb
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.dll
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\refint\Week15-OOPAndFiles.dll
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.pdb
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\Week15-OOPAndFiles.genruntimeconfig.cache
+C:\Users\Vanessa\source\repos\Week15-OOPAndFiles\Week15-OOPAndFiles\obj\Debug\net6.0\ref\Week15-OOPAndFiles.dll

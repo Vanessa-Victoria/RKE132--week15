@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Week15-OOPAndFiles/1.0.0": {
+        "runtime": {
+          "Week15-OOPAndFiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week15-OOPAndFiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
